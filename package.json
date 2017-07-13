@@ -1,0 +1,8 @@
+{
+    "name": "mbed-js-fxos8700cq",
+    "version": "1.0.0",
+    "author": "Jan Jongboom <janjongboom@gmail.com>",
+    "scripts": {
+        "postinstall": "echo 'ROOT=.' > .mbed && mbed deploy"
+    }
+}

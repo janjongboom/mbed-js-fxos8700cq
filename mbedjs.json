@@ -1,0 +1,9 @@
+{
+    "source": [
+        "."
+    ],
+    "includes": [
+        "mbed-js-fxos8700cq/mbed-js-fxos8700cq-lib.h"
+	],
+    "name": "fxos8700cq"
+}
